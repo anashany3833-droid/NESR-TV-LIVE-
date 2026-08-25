@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3838407,RESOLUTION=1280x1080,QUALITY=fhd,FRAME-RATE=30,NAME="1080p"
+http://vpn.line-activation.xyz/play/live.php?mac=00:1A:79:B5:AF:4B&stream=1836265&extension=.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=994319,RESOLUTION=640x720,QUALITY=hd,FRAME-RATE=30,NAME="720p"
+http://vpn.line-activation.xyz/play/live.php?mac=00:1A:79:B5:AF:4B&stream=1660408&extension=.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1715638,RESOLUTION=852x480,QUALITY=sd,FRAME-RATE=30,NAME="480"
+http://vpn.line-activation.xyz/play/live.php?mac=00:1A:79:B5:AF:4B&stream=1660407&extension=.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1715638,RESOLUTION=852x360,QUALITY=sd,FRAME-RATE=30,NAME="360"
+http://vpn.line-activation.xyz/play/live.php?mac=00:1A:79:B5:AF:4B&stream=1836251&extension=.m3u8
